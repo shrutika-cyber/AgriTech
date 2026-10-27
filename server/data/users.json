@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Demo Farmer",
+    "email": "demo@agrismart.local",
+    "passwordHash": "$2a$10$1VREW61aAAS4k0mjBD58yeCYrXjmM0blhne6qhMhWpiXUCp5ACecu",
+    "role": "farmer",
+    "phone": "",
+    "isDemo": true,
+    "preferences": {
+      "areaUnit": "acres",
+      "tempUnit": "C"
+    },
+    "id": "930eab3d-a4ee-44cb-97d7-f15e98df3e1c",
+    "createdAt": "2026-10-27T11:43:13.990Z",
+    "updatedAt": "2026-10-27T11:43:13.990Z"
+  }
+]

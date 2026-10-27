@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Wheat seed (sample listing)",
+    "category": "seeds",
+    "unit": "10 kg bag",
+    "price": 450,
+    "description": "Demonstration listing for certified-seed style products.",
+    "isSample": true,
+    "id": "5fd61faf-09c3-4b42-bdac-56481b68aa74",
+    "createdAt": "2026-10-27T11:43:13.889Z",
+    "updatedAt": "2026-10-27T11:43:13.889Z"
+  },
+  {
+    "name": "Maize seed (sample listing)",
+    "category": "seeds",
+    "unit": "4 kg bag",
+    "price": 520,
+    "description": "Demonstration listing.",
+    "isSample": true,
+    "id": "db16851d-24e7-4534-aaa0-f04a860b3026",
+    "createdAt": "2026-10-27T11:43:13.893Z",
+    "updatedAt": "2026-10-27T11:43:13.893Z"
+  },
+  {
+    "name": "Vegetable seed mix (sample listing)",
+    "category": "seeds",
+    "unit": "500 g pack",
+    "price": 180,
+    "description": "Demonstration listing.",
+    "isSample": true,
+    "id": "906e7dc3-76b5-4e81-85c7-f252e9c023d9",
+    "createdAt": "2026-10-27T11:43:13.895Z",
+    "updatedAt": "2026-10-27T11:43:13.895Z"
+  },
+  {
+    "name": "Compost (sample listing)",
+    "category": "organic inputs",
+    "unit": "25 kg bag",
+    "price": 300,
+    "description": "Demonstration listing for organic matter.",
+    "isSample": true,
+    "id": "1888de38-ebb1-412e-a363-170f5687ca29",
+    "createdAt": "2026-10-27T11:43:13.897Z",
+    "updatedAt": "2026-10-27T11:43:13.897Z"
+  },
+  {
+    "name": "Neem cake (sample listing)",
+    "category": "organic inputs",
+    "unit": "10 kg bag",
+    "price": 380,
+    "description": "Demonstration listing.",
+    "isSample": true,
+    "id": "12f24ef1-c1a3-418b-8017-fa3a9b9f8dae",
+    "createdAt": "2026-10-27T11:43:13.899Z",
+    "updatedAt": "2026-10-27T11:43:13.899Z"
+  },
+  {
+    "name": "Hand sprayer 16 L (sample listing)",
+    "category": "tools",
+    "unit": "each",
+    "price": 1250,
+    "description": "Demonstration listing.",
+    "isSample": true,
+    "id": "bc2f29bb-aaa7-41e2-b973-17e8575c8a8c",
+    "createdAt": "2026-10-27T11:43:13.901Z",
+    "updatedAt": "2026-10-27T11:43:13.901Z"
+  },
+  {
+    "name": "Drip irrigation kit (sample listing)",
+    "category": "tools",
+    "unit": "kit",
+    "price": 2400,
+    "description": "Demonstration listing.",
+    "isSample": true,
+    "id": "7d060831-e7f7-4c2e-8143-c4f8d9f4c3ec",
+    "createdAt": "2026-10-27T11:43:13.903Z",
+    "updatedAt": "2026-10-27T11:43:13.903Z"
+  },
+  {
+    "name": "Soil test kit (sample listing)",
+    "category": "tools",
+    "unit": "kit",
+    "price": 950,
+    "description": "Demonstration listing. Lab testing is more reliable.",
+    "isSample": true,
+    "id": "c94737dd-3269-4ba1-8381-b68144c0f598",
+    "createdAt": "2026-10-27T11:43:13.905Z",
+    "updatedAt": "2026-10-27T11:43:13.905Z"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "owner": "930eab3d-a4ee-44cb-97d7-f15e98df3e1c",
+    "name": "Demo Farm (sample)",
+    "locationLabel": "Sample village",
+    "areaValue": 5,
+    "areaUnit": "acres",
+    "soilType": "loamy",
+    "notes": "Sample data created automatically.",
+    "id": "8a0ab116-90d1-4733-a171-2958e893f015",
+    "createdAt": "2026-10-27T11:43:14.002Z",
+    "updatedAt": "2026-10-27T11:43:14.002Z"
+  }
+]

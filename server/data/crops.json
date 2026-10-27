@@ -1,0 +1,14 @@
+[
+  {
+    "owner": "930eab3d-a4ee-44cb-97d7-f15e98df3e1c",
+    "farmId": "8a0ab116-90d1-4733-a171-2958e893f015",
+    "crop": "Wheat",
+    "variety": "Sample variety",
+    "status": "growing",
+    "sowingDate": "2026-09-27",
+    "notes": "Sample crop record.",
+    "id": "880d8c2f-bf5c-442f-b2c8-b482ca3ee328",
+    "createdAt": "2026-10-27T11:43:14.004Z",
+    "updatedAt": "2026-10-27T11:43:14.004Z"
+  }
+]
