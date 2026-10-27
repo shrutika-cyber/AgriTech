@@ -1,0 +1,15 @@
+{
+  "name": "agrismart",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AgriSmart: local demo of a smart farm-management web app (React + Express, JSON-file storage)",
+  "engines": { "node": ">=20.12" },
+  "scripts": {
+    "start": "node scripts/run.js start",
+    "setup": "node scripts/run.js setup",
+    "dev": "node scripts/run.js dev",
+    "build": "node scripts/run.js build",
+    "test": "node scripts/run.js test",
+    "reset-data": "npm --prefix server run reset-data"
+  }
+}

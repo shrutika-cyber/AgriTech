@@ -1,0 +1,13 @@
+node_modules/
+client/dist/
+.env
+.env.*
+!.env.example
+*.log
+npm-debug.log*
+# local demo data (users, passwords hashes, records) and the generated token secret
+server/data/*
+!server/data/.gitkeep
+.DS_Store
+Thumbs.db
+*.zip
