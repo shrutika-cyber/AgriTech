@@ -1,0 +1,1 @@
+import{r as l}from"./index-DwuuOL4g.js";function c(n,o=[]){const[u,r]=l.useState({data:null,loading:!0,error:null}),t=l.useCallback(()=>{r(e=>({...e,loading:!0,error:null}));let a=!0;return n().then(e=>a&&r({data:e,loading:!1,error:null})).catch(e=>a&&r({data:null,loading:!1,error:e.message})),()=>{a=!1}},o);return l.useEffect(()=>t(),[t]),{...u,reload:t}}export{c as u};

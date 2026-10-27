@@ -1,0 +1,1 @@
+import{j as e,L as t}from"./index-DwuuOL4g.js";function o(){return e.jsxs("section",{className:"page narrow",children:[e.jsx("h1",{children:"Page not found"}),e.jsx("p",{children:"That page does not exist."}),e.jsx(t,{className:"btn btn-primary",to:"/",children:"Go to the home page"})]})}export{o as default};
